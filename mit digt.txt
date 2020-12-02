@@ -38,13 +38,10 @@ i like your interger
 jeg forstår ikke 
 575 ?????????????????????????????
 
-<<<<<<< HEAD
 Fuck, glemte colon
 May the force be with you
 hey søren, lav int
 
-=======
-<<<<<<< HEAD
 لورين مصطفى ااام عذاااب واقطططع
 
 مرة في حينا
@@ -58,9 +55,12 @@ hey søren, lav int
  
 لا يحيى بيننا
 الا الانسان الشريف 
-=======
+
 Jeg lærer GitHub
 Jeg synes det er ret nemt
 Må jeg nu gå hjem?
->>>>>>> 1cfe74572bf2b8043c56cfe9257872dd64ffb7e9
->>>>>>> c964591734c2135d8e07055830419e85e66896cd
+
+Github er lidt fedt
+Det kan man bruge ofte
+Til jævnt mange ting
+

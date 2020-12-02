@@ -1,4 +1,4 @@
-int x = 15
+﻿int x = 15
 for x = 0 til 19
 int x = 14
 
@@ -41,3 +41,43 @@ jeg forstår ikke
 Det er mega koldt 
 Og jeg vil hjem i min seng
 Sådan er det jo 
+=======
+
+jeg er meget dum
+hvorfor er du faktisk her
+i wanna die here
+
+=======
+coding is kamul
+my live is under rule
+freedom is so cool
+=======
+
+jeg laver kode
+det er rigtigt sjovt og sejt
+jeg er meget klog
+
+
+=======
+لورين مصطفى ااام عذاااب واقطططع
+
+مرة في حينا
+زارنا فيل ظريف
+ 
+برفق قال لا لا 
+ليس هنالك ما يخيف
+
+نحن الخير بطبعنا
+لا نرضى ظلم الضعيف
+ 
+لا يحيى بيننا
+الا الانسان الشريف 
+
+Jeg lærer GitHub
+Jeg synes det er ret nemt
+Må jeg nu gå hjem?
+
+Github er lidt fedt
+Det kan man bruge ofte
+Til jævnt mange ting
+

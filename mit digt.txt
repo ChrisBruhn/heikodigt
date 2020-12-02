@@ -38,10 +38,17 @@ i like your interger
 jeg forstår ikke 
 575 ?????????????????????????????
 
-<<<<<<< HEAD
+
 coding is kamul
 my live is under rule
 freedom is so cool
+=======
+
+jeg laver kode
+det er rigtigt sjovt og sejt
+jeg er meget klog
+
+
 =======
 لورين مصطفى ااام عذاااب واقطططع
 
@@ -64,5 +71,3 @@ Må jeg nu gå hjem?
 Github er lidt fedt
 Det kan man bruge ofte
 Til jævnt mange ting
-
->>>>>>> 4e2460773bbb29ba37104132ff6f9b28ae670663

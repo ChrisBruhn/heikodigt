@@ -38,6 +38,7 @@ i like your interger
 jeg forstår ikke 
 575 ?????????????????????????????
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 Jeg lærer GitHub
 Jeg synes det er ret nemt
@@ -46,4 +47,32 @@ Må jeg nu gå hjem?
 Go for the github 
 Jeg elsker programmering
 #Spartaklove 
+
 >>>>>>> Stashed changes
+=======
+لورين مصطفى ااام عذاااب واقطططع
+
+مرة في حينا
+زارنا فيل ظريف
+ 
+برفق قال لا لا 
+ليس هنالك ما يخيف
+
+نحن الخير بطبعنا
+لا نرضى ظلم الضعيف
+ 
+لا يحيى بيننا
+الا الانسان الشريف 
+
+Jeg lærer GitHub
+Jeg synes det er ret nemt
+Må jeg nu gå hjem?
+
+Github er lidt fedt
+Det kan man bruge ofte
+Til jævnt mange ting
+
+Go for the github 
+Jeg elsker programmering
+#Spartaklove 
+>>>>>>> 4e2460773bbb29ba37104132ff6f9b28ae670663

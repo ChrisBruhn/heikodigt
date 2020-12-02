@@ -1,4 +1,4 @@
-int x = 15
+﻿int x = 15
 for x = 0 til 19
 int x = 14
 
@@ -39,6 +39,11 @@ jeg forstår ikke
 575 ?????????????????????????????
 
 
+jeg er meget dum
+hvorfor er du faktisk her
+i wanna die here
+
+=======
 coding is kamul
 my live is under rule
 freedom is so cool
@@ -71,3 +76,4 @@ Må jeg nu gå hjem?
 Github er lidt fedt
 Det kan man bruge ofte
 Til jævnt mange ting
+

@@ -1,4 +1,4 @@
-int x = 15
+﻿int x = 15
 for x = 0 til 19
 int x = 14
 
@@ -38,7 +38,6 @@ i like your interger
 jeg forstår ikke 
 575 ?????????????????????????????
 
-<<<<<<< HEAD
 
 Har røget så meget Int, 
 jeg stinker af floatværdi
@@ -61,6 +60,45 @@ braiserer min' AND
 Det er lyden af at bli' 
 kneppet konstanter 
 =======
+=======
+Fuck, glemte colon
+May the force be with you
+hey søren, lav int
+
+=======
+
+Jeg lærer GitHub
+Jeg synes det er ret nemt
+Må jeg nu gå hjem?
+=======
+Go for the github 
+Jeg elsker programmering
+#Spartaklove 
+
+
+=======
+Det er mega koldt 
+Og jeg vil hjem i min seng
+Sådan er det jo 
+=======
+
+jeg er meget dum
+hvorfor er du faktisk her
+i wanna die here
+
+=======
+coding is kamul
+my live is under rule
+freedom is so cool
+=======
+
+jeg laver kode
+det er rigtigt sjovt og sejt
+jeg er meget klog
+
+
+=======
+
 لورين مصطفى ااام عذاااب واقطططع
 
 مرة في حينا
@@ -82,5 +120,13 @@ Må jeg nu gå hjem?
 Github er lidt fedt
 Det kan man bruge ofte
 Til jævnt mange ting
->>>>>>> 4e2460773bbb29ba37104132ff6f9b28ae670663
+
+
+Mikkel den seje
+Han laver masser $
+Mikkel er så cool
+=======
+Go for the github 
+Jeg elsker programmering
+#Spartaklove 
 
